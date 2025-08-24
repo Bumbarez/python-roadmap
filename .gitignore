@@ -8,3 +8,6 @@ build/
 .pytest_cache/
 .coverage
 .cache/
+
+# macOS
+**/.DS_Store
